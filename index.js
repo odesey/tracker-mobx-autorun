@@ -3,7 +3,7 @@ import observeCursor from './observe-cursor';
 import autorun from './autorun';
 
 checkNpmVersions({
-  'mobx': '2.x'
+  'mobx': '5.15.4'
 }, 'space:tracker-mobx-autorun');
 
 export default autorun;
